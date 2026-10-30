@@ -40,7 +40,7 @@ require (
 	github.com/gorilla/websocket v1.5.4-0.20250319132907-e064f32e3674
 	github.com/huaweicloud/huaweicloud-sdk-go-v3 v0.1.220
 	github.com/mark3labs/mcp-go v1.4.0
-	github.com/mattn/go-sqlite3 v1.14.48
+	github.com/mattn/go-sqlite3 v1.14.52
 	github.com/miekg/dns v1.1.73
 	github.com/minio/minio-go/v7 v7.4.1
 	github.com/minio/selfupdate v0.6.0
@@ -58,7 +58,7 @@ require (
 	github.com/spf13/afero v1.15.0
 	github.com/spf13/cast v1.10.0
 	github.com/stretchr/testify v1.12.1
-	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.3.199
+	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.3.200
 	github.com/tufanbarisyildirim/gonginx v0.0.0-20260220081509-8e17ce617db3
 	github.com/ulikunitz/xz v0.5.17
 	github.com/uozi-tech/cosy v1.35.4
@@ -70,7 +70,7 @@ require (
 	golang.org/x/net v0.61.0
 	golang.org/x/oauth2 v0.37.0
 	golang.org/x/sys v0.49.0
-	google.golang.org/grpc v1.84.0
+	google.golang.org/grpc v1.85.0
 	gopkg.in/ini.v1 v1.67.3
 	gorm.io/datatypes v1.2.7
 	gorm.io/driver/sqlite v1.6.0
@@ -330,10 +330,10 @@ require (
 	go.mongodb.org/mongo-driver/v2 v2.8.0 // indirect
 	go.opentelemetry.io/auto/sdk v1.2.1 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.69.0 // indirect
-	go.opentelemetry.io/otel v1.44.0 // indirect
+	go.opentelemetry.io/otel v1.45.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp v1.42.0 // indirect
-	go.opentelemetry.io/otel/metric v1.44.0 // indirect
-	go.opentelemetry.io/otel/trace v1.44.0 // indirect
+	go.opentelemetry.io/otel/metric v1.45.0 // indirect
+	go.opentelemetry.io/otel/trace v1.45.0 // indirect
 	go.uber.org/atomic v1.11.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/ratelimit v0.3.1 // indirect
@@ -346,7 +346,7 @@ require (
 	golang.org/x/time v0.16.0 // indirect
 	golang.org/x/tools v0.51.0 // indirect
 	google.golang.org/api v0.297.0 // indirect
-	google.golang.org/genproto/googleapis/api v0.0.0-20260724162435-b2f20204f0df // indirect
+	google.golang.org/genproto/googleapis/api v0.0.0-20260817212433-ac3dfec99bb1 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20260819154853-08b0e4226688 // indirect
 	google.golang.org/protobuf v1.36.12 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1 // indirect
